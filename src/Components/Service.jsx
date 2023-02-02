@@ -2,7 +2,7 @@ import React from "react";
 import UilCrop from "@iconscout/react-unicons/icons/uil-crop-alt";
 import UilBrackets from "@iconscout/react-unicons/icons/uil-brackets-curly";
 import UilGoogle from "@iconscout/react-unicons/icons/uil-google-play";
-import { NavLink } from "react-router-dom";
+
 
 const Service = () => {
   return (
@@ -23,9 +23,9 @@ const Service = () => {
             Design & Develop Custom Software Solutions that Empower Businesses
             to stay ahead of their Competition.Analyze and Research the Market.
           </p>
-          <NavLink to="/WebDesign" className="inline-block text-sm mt-5 ">
+          <a href="/WebDesign" className="inline-block text-sm mt-5 ">
             Learn more ...
-          </NavLink>
+          </a>
         </div>
         <div className="p-12 shadow-lg text-black md:text-sm text-xs rounded-md flex flex-col justify-between items-center bg-[#faf5f5] duration-500 hover:bg-[#6c8dac] hover:text-black">
           <UilCrop size={77} />
@@ -36,7 +36,7 @@ const Service = () => {
             Any part of a design that affects the user is UX design. I will help
             design custom user interfaces based on your business requirements.
           </p>
-          <a href="/UI/UX Design" className="inline-block text-sm mt-5 ">
+          <a href="/UI-UX Design" className="inline-block text-sm mt-5 ">
             Learn more ...
           </a>
         </div>

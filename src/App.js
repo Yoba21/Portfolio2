@@ -6,8 +6,7 @@ import Service from "./Components/Service";
 import Contact from "./Components/Contact";
 import Skills from "./Components/Skills";
 import Footer from "./Components/Footer";
-import { Routes, Route } from "react-router-dom";
-import WebDesign from "./Components/WebDesign";
+
 
 function App() {
   return (
@@ -17,9 +16,6 @@ function App() {
       <About />
       <Skills />
       <Service />
-      <Routes>
-        <Route path="/webDesign" element={<WebDesign />} />
-      </Routes>
       <Contact />
       <Footer />
     </>

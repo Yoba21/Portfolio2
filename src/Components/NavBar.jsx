@@ -67,8 +67,7 @@ const NavBar = () => {
                 to="Contact"
                 className="cursor-pointer hover:text-[#6be0e9]"
                 smooth={true}
-                duration={1000}
-                spy={true}
+                duration={1000}              
               >
                 Contact
               </Link>

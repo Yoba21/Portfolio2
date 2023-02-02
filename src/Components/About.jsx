@@ -23,7 +23,7 @@ const About = () => {
           </p>
           <a
             href="#Contact"
-            className="bg-black rounded-md w-[200px] font-medium my-6 mx-auto py-3 text-[#2388db] text-center"
+            className="bg-black rounded-md w-[200px] font-medium my-6 mx-auto py-3 text-[#2388db] text-center hover:opacity-75"
           >
             Let's Talk
           </a>
