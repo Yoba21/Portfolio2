@@ -2,11 +2,11 @@ This project was Build with [React](https://github.com/facebook/create-react-app
 And Styled With [Tailwind CSS](https://tailwindcss.com/)
 
 It's Main Purpose is to showcase my personal career as a software developer.\
-It includes >>>>> \
--- Personal description or about page \
+It includes >>>>>  \
+-- Personal description or About page \
 -- Skills that i have \
--- What kind services i'm offering \
--- And also a contact page for you to find me with many choices
+-- What kind Services I'm offering \
+-- And also a Contact page for you to find me with many choices .
 
 ## Available Scripts
 
