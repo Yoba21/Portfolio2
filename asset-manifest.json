@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io//Portfolio2/static/css/main.e4fcb5dd.css",
+    "main.js": "/github.io//Portfolio2/static/js/main.0f9bf4c4.js",
+    "static/media/CV.pdf": "/github.io//Portfolio2/static/media/CV.b8cca2227c9b0ce85ad6.pdf",
+    "static/media/avaar.png": "/github.io//Portfolio2/static/media/avaar.54c5fbd71ba5ee88a3d0.png",
+    "index.html": "/github.io//Portfolio2/index.html",
+    "main.e4fcb5dd.css.map": "/github.io//Portfolio2/static/css/main.e4fcb5dd.css.map",
+    "main.0f9bf4c4.js.map": "/github.io//Portfolio2/static/js/main.0f9bf4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4fcb5dd.css",
+    "static/js/main.0f9bf4c4.js"
+  ]
+}
