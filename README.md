@@ -1,10 +1,11 @@
-This project was Build with [React](https://github.com/facebook/create-react-app) Javascript library`.
+This project was Build with [React](https://github.com/facebook/create-react-app) Javascript library.
 And Styled With [Tailwind CSS](https://tailwindcss.com/)
 
 It's Main Purpose is to showcase my personal career as a software developer.\
-it includes -- Personal description or about page \
--- Skills that i have
--- What kind services i'm offering
+It includes /
+-- Personal description or about page \
+-- Skills that i have \
+-- What kind services i'm offering \
 -- And also a contact page for you to find me with many choices
 
 ## Available Scripts
