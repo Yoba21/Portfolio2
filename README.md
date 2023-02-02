@@ -1,7 +1,7 @@
 This project was Build with [React](https://github.com/facebook/create-react-app) Javascript library.
 And Styled With [Tailwind CSS](https://tailwindcss.com/)
 
-## It's Main Purpose is to showcase my personal career as a software developer.\
+## It's Main Purpose is to showcase my personal career as a software developer.
 
 It includes >>>>> \
 -- Personal description or About page \
@@ -9,7 +9,7 @@ It includes >>>>> \
 -- What kind Services I'm offering \
 -- And also a Contact page for you to find me with many choices .
 
-## And This site is avialable on livesite
+## And This WebPage is avialable on livesite [Here](https://github.com/Yoba21/Portfolio2)
 
 ## Available Scripts
 
